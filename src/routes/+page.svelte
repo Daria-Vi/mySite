@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Кинотеатар "Максим"</title>
+    <title>Сайт-портфолио педагога ЧДВ</title>
 </svelte:head>
 
 <div class="container">
@@ -8,16 +8,13 @@
             <div class="container info-container">
                 <div class="info-text">
                     <h1>
-                        <p class="animate-text-1">Добро пожаловать на сайт кинотеатра "Максим" </p>
+                        <p class="animate-text-1">Добро пожаловать на персональный сайт-портфолио преподавателя Дарья Викторовны Чипиштановой </p>
                     </h1>
                 </div>
                 <h2 class="subtitle">
-                    <p>Посетив страницы сайта, вы познакомитесь репертуаром фильмов на апрель 2024 и их описанием </p>
+                    <p>Посетив страницы сайта, вы узнаете <a href="/about">обо мне</a> и познакомитесь с достижениями в моей педагогической деятельности </p>
                 </h2>
-                <div style="color:black" class="scroll-button animate-scroll" tabindex="0">
-                    <a href="/about">О кинотеатре</a>
-                    <div class="arrow">→</div>
-                </div>
+                <div style="color:black" class="scroll-button animate-scroll" tabindex="0"></div>
             </div>
         </div>
     </div>
