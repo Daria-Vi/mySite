@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>Сайт  двух Ульян</title>
+    <title>Кинотеатар "Максим"</title>
 </svelte:head>
 
 <div class="container">
@@ -8,14 +8,14 @@
             <div class="container info-container">
                 <div class="info-text">
                     <h1>
-                        <p class="animate-text-1">Добро пожаловать на сайт Ульяны Гавриловой и Ульяны Ковальчук </p>
+                        <p class="animate-text-1">Добро пожаловать на сайт кинотеатра "Максим" </p>
                     </h1>
                 </div>
                 <h2 class="subtitle">
-                    <p>Посетив страницы сайта, вы познакомитесь с нами и нашими увлечениями </p>
+                    <p>Посетив страницы сайта, вы познакомитесь репертуаром фильмов на апрель 2024 и их описанием </p>
                 </h2>
                 <div style="color:black" class="scroll-button animate-scroll" tabindex="0">
-                    <a href="/about">Начнём...</a>
+                    <a href="/about">О кинотеатре</a>
                     <div class="arrow">→</div>
                 </div>
             </div>

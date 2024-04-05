@@ -1,5 +1,17 @@
-<h1>Учет расходов</h1>
-
+<h1>Домовой, 2024</h1>
+<script>
+    import img from '$lib/images/logo2.jpg';
+</script>
+<img src={img} alt="logo" width="40%" height="65%"/>
+<br>
+<p>Осиротев, Варя и Арсений перебираются из родной деревни в дом к приемным родителям. Но надежда на счастливую жизнь угасает, когда им бросает вызов древняя потусторонняя сила.</p>
+<br>
+<p>Продолжительность:    1 час 35 минут<br>
+    Год выпуска:     2024<br>
+    Премьера в России:     4 апреля 2024<br>
+    Премьера в мире:     4 апреля 2024<br>
+    Возраст:     16+</p>
+<!--
 <form on:submit|preventDefault={addExpense}>
  <label for="name">Название:</label>
  <input type="text" id="name" bind:value={newName} />
@@ -48,7 +60,7 @@
   expenses.splice(index, 1);
   expenses = expenses;
  }
-</script>
+</script>-->
 
 <style>
  label {

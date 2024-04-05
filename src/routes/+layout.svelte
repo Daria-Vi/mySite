@@ -1,6 +1,6 @@
 <nav>
     <div class="nav-container">
-      <a href="/" class="nav-logo" title="Back to Homepage">Две Ульяны</a>
+      <a href="/" class="nav-logo" title="Назад на главную страницу">Главная</a>
       <div class="nav-links">
         {#each nav as link}
         {#if link.isShow}
@@ -21,13 +21,8 @@
     href: '/about',
     isShow: true
   },
-  {
-    title: 'Блог',
-    href: '/blog',
-    isShow: true
-  },
-  {
-    title: 'Портфолио',
+    {
+    title: 'Афиша',
     href: '/project',
     isShow: true
   },

@@ -3,11 +3,11 @@
 </script>
 
 <svelte:head>
-    <title>Портфолио</title>
+    <title>Афиша</title>
 </svelte:head>
 
 <div class="container">
-    <h1>Мои проекты</h1>
+    <h1>Киносеансы</h1>
     <div class="apps">
         {#each routes as page}
             <div class="app">
